@@ -56,4 +56,4 @@ For any inquiries or further information, feel free to reach out.
 
 Happy analyzing!
 
-*Author: [Your Name]*
+*Author: Nishant Khandelwal*
